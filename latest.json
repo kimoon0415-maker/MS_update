@@ -1,9 +1,9 @@
 {
   "version": "4.3.0",
-  "url": "https://github.com/계정명/저장소명/releases/download/v4.3.0/maple_bot.exe",
-  "notes_url": "https://github.com/계정명/저장소명/releases",
+  "url": "https://github.com/kimoon0415-maker/MS_update/releases/download/v420/maple_bot.exe",
+  "notes_url": "https://github.com/kimoon0415-maker/MS_update/releases",
   "stable": {
     "version": "4.2.0",
-    "url": "https://github.com/계정명/저장소명/releases/download/v4.2.0/maple_bot.exe"
+    "url": "https://github.com/kimoon0415-maker/MS_update/releases/download/v420/maple_bot.exe"
   }
 }
