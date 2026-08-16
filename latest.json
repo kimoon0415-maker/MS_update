@@ -1,9 +1,9 @@
 {
-  "version": "4.3.1",
-  "url": "https://github.com/rush9214/MS_update/releases/download/v431/m_secretary.exe",
+  "version": "4.3.2",
+  "url": "https://github.com/rush9214/MS_update/releases/download/v432/m_secretary.exe",
   "notes_url": "https://github.com/rush9214/MS_update/releases",
   "stable": {
-    "version": "4.3.0",
-    "url": "https://github.com/rush9214/MS_update/releases/download/v430/maple_bot.exe"
+    "version": "4.3.1",
+    "url": "https://github.com/rush9214/MS_update/releases/download/v431/m_secretary.exe"
   }
 }
